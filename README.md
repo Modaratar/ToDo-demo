@@ -1,8 +1,9 @@
-# ToDo App
+# ToDo App [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://modaratar.github.io/ToDo-demo/)
 
 Небольшое приложение для управления списком задач. Написал его, чтобы попрактиковаться в асинхронном JavaScript — `Promises`, `async/await`, работа с REST API через `fetch`, динамическое обновление DOM.
 
 Версия: `1.0.0`
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/a213e577-b05f-43ff-a4a3-6cbab7daa187" />
 
 ## Цель
 
@@ -26,7 +27,7 @@
 
 - Vanilla JavaScript (ES6+), без фреймворков и сборки
 - `async/await`, `Promise.all`, Fetch API
-- Mock-бэкенд: [JSONPlaceholder (Cypress mirror)](https://cypress.io)
+- Mock-бэкенд: [JSONPlaceholder (Cypress mirror)](https://jsonplaceholder.cypress.io)
 
 ## Как устроен код
 
@@ -40,7 +41,7 @@
 
 1. Клонируй репозиторий:
     ```bash
-    git clone https://github.com
+    git clone https://github.com/Modaratar/ToDo-demo.git
     ```
 2. Открой `index.html` в браузере. Или через Live Server в VS Code — кому как удобнее.
 3. Никакой сборки и зависимостей не нужно.
